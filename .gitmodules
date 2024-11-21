@@ -1,0 +1,3 @@
+[submodule "client-gateaway"]
+	path = client-gateaway
+	url = https://github.com/Nest-Microservices-DevTallesCursos/client-gateaway.git
